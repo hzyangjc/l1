@@ -52,3 +52,5 @@ DeepScaleR-1.5B-Preview/
 Qwen/
 Qwen3-0.6B/
 deepscaler.egg-info/
+deepscaler/
+docs/
